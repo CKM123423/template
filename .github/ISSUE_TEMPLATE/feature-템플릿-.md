@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: 'feature 템플릿 '
+about: 새로운 기능 개발 템플릿
 title: ''
 labels: ''
 assignees: ''
