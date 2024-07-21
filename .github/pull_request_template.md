@@ -3,7 +3,7 @@
 > Main Issue Number : #메인 이슈 번호
 > Sub Issue Number : #하위 이슈 번호
 > <br>
-> resolves : #하위 이슈 번호
+> resolved : #하위 이슈 번호
 
 ## PR 종류
 해당 PR은 어떤 부분에 대한 변화인가요?
