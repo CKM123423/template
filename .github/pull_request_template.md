@@ -1,8 +1,9 @@
 ## 📌 연관된 이슈
 <!-- 수정하려는 현재 동작을 설명하거나 관련 문제에 대한 링크를 제공해주세요 -->
-> Issue Number : #이슈번호
+> Main Issue Number : #메인 이슈 번호
+> Sub Issue Number : #하위 이슈 번호
 > <br>
-> resolves : #이슈번호
+> resolves : #하위 이슈 번호
 
 ## PR 종류
 해당 PR은 어떤 부분에 대한 변화인가요?
